@@ -16,7 +16,7 @@
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">JavaScript Challenges #02</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">React Challenge #00: DIO Site Clone</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-1">React Challenge #01: Calculator</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2">React Challenge #02: Wiki to save Github Repositories</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2">React Challenge #02: Wiki Github's Repository</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3">React Challenge #03: DIO Site - Register Screen with Typescript</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-4">React Challenge #04: DIO Site - Login Validation with Typescript</a>&nbsp;
 
