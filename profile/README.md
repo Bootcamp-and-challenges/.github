@@ -18,7 +18,7 @@
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3">React Challenge 03: DIO Site - Register Screen with Typescript</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-4">React Challenge 04: DIO Site - Login Validation with Typescript</a>&nbsp;
 
-<h2>❯❯:hammer_and_wrench: Languages and Tools:</h2>
+<h2>❯❯:hammer_and_wrench: Languages & Tools:</h2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
