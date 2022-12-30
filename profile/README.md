@@ -7,7 +7,7 @@
   </div>  
 
 <h2>❯❯:arrow_right: About:</h2>
-  <h3>Here's a repository of all activities and challenges developed during Bootcamp Orange Tech+ created by @digitalinnovationone.</h3>
+  <h3>Here's a repository of all activities and challenges developed during Bootcamp Orange Tech+ created by @digitalinnovationone and Inter Bank.</h3>
 
 <h2>❯❯:zap: Challenges:</h2>
 
