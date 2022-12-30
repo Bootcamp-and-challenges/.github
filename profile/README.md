@@ -12,13 +12,11 @@
 <h2>❯❯:zap: Challenges:</h2>
 
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-
+- <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">DIO Site - Clone</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio01-calculadora">React Challenge 01: Calculator</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2">React Challenge 02: Wiki to save Github Repositories</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3">React Challenge 03: DIO Site - Register Screen with Typescript</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-4">React Challenge 04: DIO Site - Login Validation with Typescript</a>&nbsp;
 
 <h2>❯❯:hammer_and_wrench: Languages and Tools:</h2>
 
