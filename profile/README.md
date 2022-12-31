@@ -12,7 +12,7 @@
 <h2>❯❯:zap: Challenges:</h2>
 
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">JavaScript Challenges #01</a>&nbsp;
+- <a href="https://github.com/Bootcamp-Orange-Tech/js-challenges-01">JavaScript Challenges #01</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">JavaScript Challenges #02</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">React Challenge #00: DIO Site Clone</a>&nbsp;
 - <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-1">React Challenge #01: Calculator</a>&nbsp;
