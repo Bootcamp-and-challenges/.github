@@ -11,14 +11,14 @@
 
 <h2>❯❯:zap: Challenges:</h2>
 
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github">Git & Github: First Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/js-challenges-01">JavaScript Challenges #01</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">JavaScript Challenges #02</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/dio-clone-site">React Challenge #00: DIO Site Clone</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-1">React Challenge #01: Calculator</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2">React Challenge #02: Wiki Github's Repository</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3">React Challenge #03: DIO Site - Register Screen with Typescript</a>&nbsp;
-- <a href="https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-4">React Challenge #04: DIO Site - Login Validation with Typescript</a>&nbsp;
+- [Git & Github: First Repository](https://github.com/Bootcamp-Orange-Tech/dio-desafio-git-github)
+- [JavaScript Challenges #01](https://github.com/Bootcamp-Orange-Tech/js-challenges-01)
+- [JavaScript Challenges #02](https://github.com/Bootcamp-Orange-Tech/js-challenges-02)
+- [React Challenge #00: DIO Site Clone](https://github.com/Bootcamp-Orange-Tech/dio-clone-site)
+- [React Challenge #01: Calculator](https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-1)
+- [React Challenge #02: Wiki Github's Repository](https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-2)
+- [React Challenge #03: DIO Site - Register Screen with Typescript](https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-3)
+- [React Challenge #04: DIO Site - Login Validation with Typescript](https://github.com/Bootcamp-Orange-Tech/trilha-react-desafio-4)
 
 <h2>❯❯:hammer_and_wrench: Languages & Tools:</h2>
 
