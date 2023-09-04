@@ -3,7 +3,7 @@
 </h1>
 
 <h2>❯❯:arrow_right: About:</h2>
-  <h3>Here's a repository of all the activities and challenges I've developed in the bootcamps I've participated in.</h3>
+  <h3>Here's a repository of all activities and challenges I've developed in the bootcamps I've participated in.</h3>
 
 <h2>❯❯:zap: 2022 | Bootcamp Orange Tech+</h2>
 <h4>Bootcamp of front-end development (HTML, CSS, Git, Github, JavaScript, TypeScript and React). Created by @digitalinnovationone and Inter Bank</h4>
@@ -20,4 +20,14 @@
 <h2>❯❯:zap: 2023 | Technology Training Programme Nu Institute + Descomplica</h2>
 <h4>Front-end development training (HTML, CSS, Javascript, Bootstrap, React, UX), design thinking and soft skills. Created by @descomplica and NU Institute</h4>
 
+-In progress
 
+<h2>❯❯:zap: 2023 | Potencia Tech powered by iFood - Data Science</h2>
+<h4>Bootcamp of data science (Git, Github, Python, SQL, Machine Learning). Created by @digitalinnovationone and iFood</h4>
+
+-In progress
+
+<h2>❯❯:zap: 2023 | Santander Bootcamp - Data Science with Python</h2>
+<h4>Bootcamp of data science with Python (Git, Github, Python, SQL, NoSQL, Power BI, Machine Learning). Created by @digitalinnovationone and Santander Bank</h4>
+
+-In progress
