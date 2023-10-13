@@ -22,11 +22,6 @@
 
 -In progress
 
-<h2>❯❯:zap: 2023 | Potencia Tech powered by iFood - Data Science</h2>
-<h4>Bootcamp of data science (Git, Github, Python, SQL, Machine Learning). Created by @digitalinnovationone and iFood</h4>
-
--In progress
-
 <h2>❯❯:zap: 2023 | Santander Bootcamp - Data Science with Python</h2>
 <h4>Bootcamp of data science with Python (Git, Github, Python, SQL, NoSQL, Power BI, Machine Learning). Created by @digitalinnovationone and Santander Bank</h4>
 
