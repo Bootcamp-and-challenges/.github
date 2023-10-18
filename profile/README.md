@@ -1,9 +1,9 @@
-<h1 align="center"> Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="140"/>
+<img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+<h1 align="left">Hi there! Welcome! </h1>
 
 <h2>❯❯:arrow_right: About:</h2>
-  <h3>Here's a repository of all activities and challenges I've developed in the bootcamps I've participated in.</h3>
+  <h3>Here's a repository of all activities, challenges and bootcamps I've participated in.</h3>
 
 <h2>❯❯:zap: 2022 | Bootcamp Orange Tech+</h2>
 <h4>Bootcamp of front-end development (HTML, CSS, Git, Github, JavaScript, TypeScript and React). Created by @digitalinnovationone and Inter Bank</h4>
